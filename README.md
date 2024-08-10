@@ -1,13 +1,18 @@
+<div align=center>
+
 # Projeto de Data Analytics para Retail
 
 ## Objetivo
 Desenvolver um projeto de Data Analytics para uma empresa de retail, envolvendo a criação de uma arquitetura de dados na Azure e a construção de um Lakehouse. Este projeto será semelhante ao de grandes empresas de comércio e retail e visa a análise de dados para Business Intelligence (BI) e Machine Learning (ML).
 
+  
 ## Arquitetura
 
 ![Arquitetura](./img/arquitetura.png)
 
-## O que Vamos Fazer
+</div>
+
+## O que fazer
 - **Construir uma arquitetura de dados na Azure**
 - **Construir um Lakehouse**
 - Projeto típico de Analytics para BI e Machine Learning, similar aos de grandes empresas de comércio/retail.
